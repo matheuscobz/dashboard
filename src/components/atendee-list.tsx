@@ -7,7 +7,8 @@ import { Table } from './table/table'
 import { TableHeader } from './table/table-header'
 import { TableCell } from './table/table-cell'
 import { TableRow } from './table/table-row'
-import { ChangeEvent, useEffect, useState } from 'react'
+//Importar a lib "useEffect"
+import { ChangeEvent, useState } from 'react'
 import { attendeesFromData } from '../data/attendees'
 
 dayjs.extend(relativeTime)
