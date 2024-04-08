@@ -1,2 +1,1 @@
-# dashboard
- Dashboard utilizando react, typescript, tailwind, dayjs, fakerjs, entre outros!
+Uma aplicação de um dashboard utilizando TypeScript, React, Tailwind, entre outras tecnologias!
